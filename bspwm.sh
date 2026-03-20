@@ -23,7 +23,7 @@ HOME_DIR="$HOME"
 mkdir -p "$HOME_DIR/.config"
 TEMP_DIR="/tmp/dotfiles"
 git clone https://github.com/sysgastel/bspwm-setup.git "$TEMP_DIR"
-cp -rv "$TEMP_DIR"/* "$HOME_DIR/.config/"
+cp -rv "$TEMP_DIR/dot-files/"* "$HOME_DIR/.config/"
 rm -rf "$TEMP_DIR"
-
+echo -e "${VERDE}Configuraciòn completada con èxito.${RESET}"
 
