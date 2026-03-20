@@ -1,0 +1,21 @@
+00:00:00.465573 VirtualBox GUI VM Selector Window 7.2.6 r172322 linux.amd64 (Jan 20 2026 17:39:04) release log
+00:00:00.465576 Log opened 2026-03-16T06:27:46.060620000Z
+00:00:00.465577 Build Type: release
+00:00:00.465585 OS Product: Linux
+00:00:00.465587 OS Release: 6.1.0-44-amd64
+00:00:00.465588 OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.164-1 (2026-03-09)
+00:00:00.465635 DMI Product Name: HP 240 14 inch G9 Notebook PC
+00:00:00.465652 DMI Product Version: 
+00:00:00.465667 Firmware type: UEFI
+00:00:00.465885 Secure Boot: Disabled
+00:00:00.465957 Host RAM: 11634MB (11.3GB) total, 11019MB (10.7GB) available
+00:00:00.465965 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.465965 Process ID: 9073
+00:00:00.465966 Package type: LINUX_64BITS_DEBIAN_12_0
+00:00:00.466012 Qt version: 6.8.0
+00:00:00.466760 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.482052 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.226530 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x42 x 1366x726
+00:00:01.243910 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:51.055468 GUI: UICommon: Handling aboutToQuit request..
+00:07:51.774322 GUI: UICommon: aboutToQuit request handled!
