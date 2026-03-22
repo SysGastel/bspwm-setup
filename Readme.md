@@ -15,7 +15,8 @@ Este repositorio contiene las configuraciones (`dotfiles`) y un script de instal
 * **Fuentes y Iconos:**`JetBrains Mono`
 
 #Capturas de pantalla 
-![Escritorio](image1.jpg) ![Fetch](fetch.jpg)
+![Escritorio](image1.jpg)
+![Fetch](fetch.jpg)
 
 ## Requisitos Previos
 * Una instalación base de Debian (Estable o Testing) sin entorno gráfico.
@@ -26,8 +27,7 @@ Este repositorio contiene las configuraciones (`dotfiles`) y un script de instal
 
 1.  **Clona el repositorio:**
 
-    ```git clone https://github.com/sysgastel/bspwm-setup.git
-    cd bspwm-setup```
+    ```git clone https://github.com/sysgastel/bspwm-setup.git cd bspwm-setup```
 
 2.  **Haz ejecutable el script:**
 
@@ -49,11 +49,12 @@ Este repositorio contiene las configuraciones (`dotfiles`) y un script de instal
 * **Bash Scripting:**
 * **automatizacion de despliegue y manejo de archivos**
 * **Linux Sysadmin**
-* **Gestion de entorno Minimal y personalizacion*
+* **Gestion de entorno Minimal y personalizacion**
 * **Git/Github**
 
-Informacion de contacto:
-Miguel Angel Gastelum
-https://github.com/sysgastel
-Administrador de Sistemas GNU/Linux
+#Informacion de contacto:
+
+* **Miguel Angel Gastelum**
+* **https://github.com/sysgastel**
+* **Administrador de Sistemas GNU/Linux**
 
