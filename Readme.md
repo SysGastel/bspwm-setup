@@ -27,13 +27,16 @@ Este repositorio contiene las configuraciones (`dotfiles`) y un script de instal
 
 1.  **Clona el repositorio:**
 	```bash
-      git clone https://github.com/sysgastel/bspwm-setup.git cd bspwm-setup```
+      git clone https://github.com/sysgastel/bspwm-setup.git cd bspwm-setup
+	```
 2.  **Haz ejecutable el script:**
 	```bash
-        chmod +x bspwm.sh```
+        chmod +x bspwm.sh
+	```
 3.  **Ejecuta el script de instalación:**
 	```bash
-      bash ./bspwm.sh```
+      bash ./bspwm.sh
+	```
 **Nota:** Durante la instalación, se te pedirá tu contraseña de `sudo`. El script instalará todas las dependencias necesarias y moverá los archivos de configuración a sus ubicaciones correspondientes (`~/.config/`).
 
 ## Contenido del Repositorio
