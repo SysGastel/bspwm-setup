@@ -1,8 +1,8 @@
-#BSPWM-Setup Automatizado
+# BSPWM-Setup Automatizado
 
 Un script en Bash para la instalación y configuración automatizada del entorno de escritorio BSPWM en un sistema **Debian Minimal (Netinstall)** partiendo desde una TTY sin entorno gráfico.
 
-##Descripción
+## Descripción
 
 Este repositorio contiene las configuraciones (`dotfiles`) y un script de instalación (`bspwm.sh`) diseñados para desplegar rápidamente un flujo de trabajo minimalista y eficiente basado en:
 
@@ -14,7 +14,7 @@ Este repositorio contiene las configuraciones (`dotfiles`) y un script de instal
 * **Application Launcher:** `rofi` 
 * **Fuentes y Iconos:**`JetBrains Mono`
 
-#Capturas de pantalla 
+## Capturas de pantalla 
 ![Escritorio](image1.jpg)
 ![Fetch](fetch.jpg)
 
@@ -44,15 +44,15 @@ Este repositorio contiene las configuraciones (`dotfiles`) y un script de instal
 * **`bspwm.sh`:** Script principal para la automatización de la instalación.
 * **`dot-files/`:** Directorio que contiene las configuraciones personalizadas para cada herramienta (bspwm, sxhkd, polybar, picom, etc.)
 
-# Este proyecto es parte de mi camino para convertirme en Administrador de Sistemas Linux
-# Habilidades aplicadas
-* **Bash Scripting:**
+## Este proyecto es parte de mi camino para convertirme en Administrador de Sistemas Linux
+## Habilidades aplicadas
+* **Bash Scripting**
 * **automatizacion de despliegue y manejo de archivos**
 * **Linux Sysadmin**
 * **Gestion de entorno Minimal y personalizacion**
 * **Git/Github**
 
-Informacion de contacto:
+## Informacion de contacto:
 * **Miguel Angel Gastelum**
 * **https://github.com/sysgastel**
 * **Administrador de Sistemas GNU/Linux**
