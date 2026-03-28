@@ -9,7 +9,11 @@ RESET='\e[0m'
 echo -e "${VERDE} Instalando servidor grafico, modulos de bluetooh y brillo${RESET}"
 GRAPHIC_SETUP="xorg bspwm polybar picom zsh gzip kitty rofi nmap firefox-esr feh git curl wget lightdm light-locker btop htop cmatrix"
 #Ejecucion Limpia
-sudo apt install $GRAPHIC_SETUP -y
+sudo apt-get install $GRAPHIC_SETUP -y
+
+#Optimizacion del sistema
+echo -r "${VERDE} instalacion de paquetes de mejora para el rendimiento del equipo"${RESET}
+sudo apt-get install low-memory-monitor preload irqbalance -y
 
 #Instalacion de fonts.
 echo -e "${VERDE} Instalando fuentes para iconos...${RESET}"
