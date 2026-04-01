@@ -7,7 +7,7 @@ RESET='\e[0m'
 
 #Instalacion del sevidor grafico y algunas herramientaas. =========================
 echo -e "${VERDE} Instalando servidor grafico, modulos de bluetooh y brillo${RESET}"
-GRAPHIC_SETUP="xorg bspwm polybar picom zsh gzip kitty rofi nmap firefox-esr feh git curl wget lightdm light-locker btop htop cmatrix"
+GRAPHIC_SETUP="xorg thunar bspwm polybar picom zsh gzip kitty rofi nmap firefox-esr feh git curl wget lightdm light-locker btop htop cmatrix"
 #Ejecucion Limpia
 sudo apt-get install $GRAPHIC_SETUP -y
 
